@@ -3,9 +3,9 @@
 	comment = "Printing Library to print in console",
 	author = "PentagonLP",
 	website = "https://github.com/PentagonLP/properprint/",
-	newestversion = "1.0",
+	newestversion = "1.1",
 	install = {
-		url = "https://raw.githubusercontent.com/PentagonLP/properprint/main/properprint",
+		url = "https://raw.githubusercontent.com/PentagonLP/properprint/main/properprint.lua",
 		filename = "properprint",
 		type = "library",
 	},
